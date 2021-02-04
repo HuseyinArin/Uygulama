@@ -29,9 +29,7 @@ namespace Collections
             Console.WriteLine(isimler2[4]);
             Console.WriteLine(isimler2[0]);
 
-
-            List<string> Liste = new List<string>();
-            Console.WriteLine(Liste.Count);
+          
         }
     }
 
